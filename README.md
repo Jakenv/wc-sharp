@@ -1,6 +1,6 @@
 # WC rewrite in C#
 
-WC Unix Program rewriten in C# just to trains stuff
+WC Unix Program rewriten in C# I made just to train stuff
 
 ## Installation
 ```zsh
